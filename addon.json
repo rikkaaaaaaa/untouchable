@@ -1,0 +1,13 @@
+{
+    "title": "Untouchable Tool",
+    "type": "tool",
+    "tags": [
+        "build"
+    ],
+    "ignore": [
+        ".git/*",
+        "image.jpg",
+        "license",
+        "*.md"
+    ]
+}
